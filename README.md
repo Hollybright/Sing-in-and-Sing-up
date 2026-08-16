@@ -1,2 +1,3 @@
 # Sing-in-and-Sing-up
 Building state
+This the building stage of my project...
